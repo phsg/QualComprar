@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qual Comprar</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="projeto">Projeto</string>
+    <string name="sobre">Sobre</string>
+    <string name="title_activity_calculo">CalculoActivity</string>
+</resources>
